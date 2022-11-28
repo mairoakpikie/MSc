@@ -1,0 +1,32 @@
+Admin
+Username : admin
+Password : admin
+
+
+employee
+Username : seyi@gmail.com
+Password : 1234
+
+
+
+
+Instruction on how to install the software 
+1. Download and install Xampp control panel v3.2.1 version and start the apache and mysql server
+2. Extract the program zip file, copy and place the folder inside the "htdocs" folder inside xampp folder on your local C
+3. open your browser and enter "localhost/phpmyadmin" on your url to create and install the database file.
+4. create a database according to the name of the database on your sql file and import the file in your database.
+5. Run the index file OR type "http://localhost/database-master//index.html" on your browser to access the program home page.
+
+
+The login details has been provided above.
+Thanks!
+
+
+
+To log into the main page: http://localhost/GuinessinformationSystem/
+
+To visit the Database: localhost/phpmyadmin
+
+Admin login: email - Admin@guinessnigeria.com ; PW - admin1234
+
+user login: email - chijioke@gmail.com ; PW - mairo
